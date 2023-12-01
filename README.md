@@ -26,4 +26,4 @@ The encryption and decryption process uses the **pyhpke** library, which impleme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/encryption-repo.git
+   git clone https://github.com/Itina99/NetworkSecurityHPKE
