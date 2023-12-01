@@ -1,0 +1,15 @@
+{
+  "info": {
+    "psk": "",
+    "psk_id": ""
+  },
+  "pub_data": {
+    "mode": 2,
+    "info": "aW5mb19hdXRoX21vZGU=",
+    "aad": "YWFkX2F1dGhfbW9kZQ==",
+    "ikm_s": "aWttX3NlbmRlcl9hdXRoX21vZGU=",
+    "ikm_r": "aWttX3JlY2VpdmVyX2F1dGhfbW9kZQ==",
+    "enc": "BP3eD6P1gzTry6Sk+6GTzUdawOHcT9dh6Li96exgYVXiruZY2A9FcCV5/ax+hsS7FVdpFkqAlD4pHUa0oVhHHPc=",
+    "ct": "yosFsZqsCuTQ+KYjiF1brH2MmS25e7jbDXk7"
+  }
+}
